@@ -1,0 +1,19 @@
+Perl Scanner - v0.1
+
+Designed to CNC control a camera for macro work, stitched scanning, and
+microscopy.
+
+Designed around gcode, specifically targetting the grblshield
+( https://github.com/synthetos/grblShield ) for Arduino.
+
+
+LICENSE
+
+Released under the GNU Affero General Public License. See agpl.txt or
+http://www.gnu.org/licenses/agpl.txt
+
+
+CHANGELOG
+
+v0.1
+...?
