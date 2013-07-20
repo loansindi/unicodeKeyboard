@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 # Desc:
 #   Proof of concept to show grblshield movement and movement ack. Moves in
 #   a square.
@@ -23,7 +24,6 @@
 #
 #   You should have received a copy of the GNU Affero General Public License
 #   along with Perl Scanner.  If not, see <http://www.gnu.org/licenses/>.
-#!/usr/bin/perl
 
 use warnings;
 use strict;
